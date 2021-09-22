@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis.
 
-##O verview of the analysis:
+## Overview of the analysis:
 The analysis made can be divided into two parts.
 
 *Part a is to extract the total number of retiring employees by title. This contains all employees who are born between January 1, 1952 and December 31, 1955.
