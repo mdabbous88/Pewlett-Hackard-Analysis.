@@ -20,4 +20,6 @@ opened to replace these retiring employees.
 ## Summary
 - There will be 90398 total employees who will be retiring from the company.![](https://github.com/mdabbous88/Pewlett-Hackard-Analysis./blob/main/total_number_retiring.png)
 
-- The total number retiring employees is 90398, and the total number of qulaified employees for the mentorship program is 1549. The number of positions to be filled is around 58 times the number of mentors which makes it very difficult for the company and is not enough to do the mentorship program.![](https://github.com/mdabbous88/Pewlett-Hackard-Analysis./blob/main/Total%20number%20of%20mentors.png)
+- The total number retiring employees is 90398, and the total number of qulaified employees for the mentorship program is 1549. The number of positions to be filled is around 58 times the number of mentors which makes it very difficult for the company and is not enough to do the mentorship program.
+
+![](https://github.com/mdabbous88/Pewlett-Hackard-Analysis./blob/main/Total%20number%20of%20mentors.png)
